@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,Q as l}from"./chunks/framework.047f4c6e.js";const C=JSON.parse('{"title":"题库","description":"","frontmatter":{},"headers":[],"relativePath":"about/note.md","lastUpdated":null}'),p={name:"about/note.md"},o=l("",119),e=[o];function t(c,r,y,F,D,i){return n(),a("div",null,e)}const u=s(p,[["render",t]]);export{C as __pageData,u as default};
